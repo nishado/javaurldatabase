@@ -1,0 +1,8 @@
+#ToStoreData
+Two Hashmap is used to store data as key value pair , where in one of the Hashmaps url is given as key and count is given as the value
+and in the other Hashmap url is given as key and unique short_key is given as the value
+
+#UniqueShort_Key
+Current time is used as the unique id to generate the Unique Id for each storage of url, 
+
+
